@@ -144,6 +144,7 @@ table {
   --orange_100: #ffedcc;
   --purple_main: #340b67;
   --purple_main_hover: #b49fcc;
+  --matrix_green:  #03A062;
 }
 
 html {
@@ -157,7 +158,7 @@ html {
   flex-direction: column;
 }
 .nav {
-  background-color: var(--purple_300);
+  background-color: var(--blue_300);
   padding: 2rem;
   width: 100%;
   display: flex;
@@ -167,11 +168,11 @@ html {
 }
 .navlink { 
     text-decoration: none;
-    color: black;
+    color: orange;
     list-style: none;
 }
 .title {
-  color: var(--sky_300);
+  color: var(--matrix_green);
   margin-top: 2rem;
   font-size: 2rem;
 }
