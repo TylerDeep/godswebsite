@@ -176,10 +176,24 @@ html {
   margin-top: 2rem;
   font-size: 2rem;
 }
-.pictureCaption {
+.by {
   margin-top: 1rem;
 }
 .fullypic {
   margin-top: 2rem;
   object-fit: cover;
+  width: 25%;
 }
+  .answer {
+    margin-top: 2rem;
+    object-fit: cover;
+
+  }
+
+  .time {
+    
+    
+
+  }
+
+
